@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i|Playfair+Display:400,900,400i|Roboto+Slab:400');
 
 .jumbotron {
-	background-image:url(/images/briarwood_background_dark_optimized.jpg);
+	background-image:url(images/briarwood_background_dark_optimized.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	margin-bottom:0;
@@ -16,7 +16,7 @@
 }
 
 .chalkboard{
-	background-image:url(/images/briarwood_blackboard.jpg);
+	background-image:url(images/briarwood_blackboard.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -46,7 +46,7 @@ padding:2rem 0 5rem 0;
 	font-size:1.55rem;
  }
  .about-bg{
-	background-image:url(/images/Briarwood_office_shot_compressed.jpg);
+	background-image:url(images/Briarwood_office_shot_compressed.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	margin-bottom:0;
